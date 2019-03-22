@@ -13,6 +13,7 @@ namespace 仓库物料管理系统.方法类
     class operateSQL
     {
         static string SQL_str1 = "server=localhost;database=WNM;integrated security=SSPI";
+        //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         public string SQLstr
         {
             get { return SQL_str1; }
