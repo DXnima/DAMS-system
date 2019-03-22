@@ -18,7 +18,7 @@ namespace 仓库物料管理系统
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             operSQL.AttachDB();
-            Application.Run(new login());//123
+            Application.Run(new login());
         }
     }
 }
