@@ -181,17 +181,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>udOg6h0P1jZ1Vs/aJCQ5ej6pxEhokqhanH2lQr44/0I=</dsig:DigestValue>
+        <dsig:DigestValue>OkMw3ScEe1efaw2vpbybIlYdv0BFQT37JxWdXsM41FU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="仓库物料管理系统.exe.config" size="1643">
+  <file name="仓库物料管理系统.exe.config" size="1823">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6k6dHBro9wYqnuCu138J+6zlkk/aNfWkE0a1AxwBXmA=</dsig:DigestValue>
+      <dsig:DigestValue>NdQvsPwxe4buXtXCi/aV/9ya5XPi6Ottb7NW1Z97qno=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
