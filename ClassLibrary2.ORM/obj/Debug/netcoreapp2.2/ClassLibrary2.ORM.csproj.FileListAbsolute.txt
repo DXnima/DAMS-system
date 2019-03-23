@@ -1,0 +1,5 @@
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\ClassLibrary2.ORM\bin\Debug\netcoreapp2.2\ClassLibrary2.ORM.deps.json
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\ClassLibrary2.ORM\bin\Debug\netcoreapp2.2\ClassLibrary2.ORM.dll
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\ClassLibrary2.ORM\obj\Debug\netcoreapp2.2\ClassLibrary2.ORM.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\ClassLibrary2.ORM\obj\Debug\netcoreapp2.2\ClassLibrary2.ORM.AssemblyInfoInputs.cache
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\ClassLibrary2.ORM\obj\Debug\netcoreapp2.2\ClassLibrary2.ORM.AssemblyInfo.cs
