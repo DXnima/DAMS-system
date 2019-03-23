@@ -97,3 +97,8 @@ F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\obj\Debug
 F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\obj\Debug\仓库物料管理系统.csproj.CopyComplete
 F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\obj\Debug\仓库物料管理系统.exe
 F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\obj\Debug\仓库物料管理系统.pdb
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\bin\Debug\EntityFramework.dll
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\bin\Debug\EntityFramework.SqlServer.dll
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\bin\Debug\SqlSugar.dll
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\bin\Debug\EntityFramework.xml
+F:\Microsoft Visual C++ 6.0\Cshap\DAMS-system\仓库物料管理系统\bin\Debug\EntityFramework.SqlServer.xml

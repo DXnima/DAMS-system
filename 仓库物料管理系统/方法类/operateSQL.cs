@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SqlSugar;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -7,13 +8,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DbType = SqlSugar.DbType;
 
 namespace 仓库物料管理系统.方法类
 {
     class operateSQL
     {
         static string SQL_str1 = "server=localhost;database=WNM;integrated security=SSPI";
-        //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         public string SQLstr
         {
             get { return SQL_str1; }
