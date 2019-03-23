@@ -42,6 +42,30 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.dll" size="5225168">
+      <assemblyIdentity name="EntityFramework" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>nCD7KthqdgsMauvZMByQCYkdAq4UcgqTkmwLU1uK0Js=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EntityFramework.SqlServer.dll" size="622288">
+      <assemblyIdentity name="EntityFramework.SqlServer" version="6.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4OEmw7inupUB0D+Z1Upcu9F0vOy2FwCYq0zBIZ8n+TM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IrisSkin4.dll" size="557056">
       <assemblyIdentity name="IrisSkin4" version="2006.3.22.45" publicKeyToken="127BE25A6DB25E07" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -138,6 +162,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SqlSugar.dll" size="614912">
+      <assemblyIdentity name="SqlSugar" version="4.9.9.3" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SGhDZV37wLHlBxv7n1urb9H8rULT5QSWmBe2slXBf4g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="仓库物料管理系统.exe" size="3185128">
       <assemblyIdentity name="仓库物料管理系统" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
@@ -145,17 +181,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LqfCMogG7F9hI7ga54w8pBdUj0f9LB3osrcoQHypQ20=</dsig:DigestValue>
+        <dsig:DigestValue>OkMw3ScEe1efaw2vpbybIlYdv0BFQT37JxWdXsM41FU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="仓库物料管理系统.exe.config" size="871">
+  <file name="仓库物料管理系统.exe.config" size="1823">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>8phx+jgZedTXSJvN0st2p11omgyx6JmjHRbx9HYPiWY=</dsig:DigestValue>
+      <dsig:DigestValue>NdQvsPwxe4buXtXCi/aV/9ya5XPi6Ottb7NW1Z97qno=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

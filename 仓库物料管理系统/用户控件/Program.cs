@@ -17,7 +17,7 @@ namespace 仓库物料管理系统
             方法类.operateSQL operSQL = new 方法类.operateSQL();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            operSQL.AttachDB();
+            //operSQL.AttachDB();
             Application.Run(new login());
         }
     }
